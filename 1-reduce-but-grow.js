@@ -1,3 +1,6 @@
+// 1/366
+// https://www.codewars.com/kata/57f780909f7e8e3183000078/javascript
+
 // function grow(x) {
 //   let result = 1;
 //   //   cara 1
