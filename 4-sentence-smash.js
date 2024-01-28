@@ -1,8 +1,12 @@
 // 4/366
 // https://www.codewars.com/kata/53dc23c68a0c93699800041d
 
-function smash(words) {
-  return words.join(" ");
-}
+// cara 1
+// function smash(words) {
+//   return words.join(" ");
+// }
+
+// cara 2
+const smash = (words) => words.join(" ");
 
 console.log(smash(["this", "is", "a", "really", "long", "sentence"]));
